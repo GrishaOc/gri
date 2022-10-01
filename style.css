@@ -1,0 +1,35 @@
+body {
+    background: #000000;
+    color: azure;
+    font-family: "Ubuntu";
+    text-align: center;
+}
+footer {
+    background: #1b1f27;
+    color: azure;
+    /* Прижмем footer внизу */
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+a {
+    color: #ffeb39;
+    text-align: left;
+}
+li {
+    text-align: left;
+}
+hr {
+    border: none;
+    height: 4px;
+    background-color:#1b1f27;
+}
+h2 {
+    color: #bbbcbf;
+}
+header {
+    background-image: url("лого.ico");
+    background-size: contain;
+    background-position: left;
+    background-repeat: no-repeat;
+}
